@@ -1,7 +1,7 @@
 # Relatório de Análise e Resultados do Modelo Preditivo de Churn - Telecom X
 
 **Data:** 06 de Agosto de 2025  
-**Autor:** Ricardo Iurassek, desenvolvido por xAI  
+**Autor:** Ricardo Iurassek, auxiliado por AI  
 
 ## 1. Introdução
 Este relatório apresenta os resultados da análise preditiva de churn (evasão de clientes) realizada com base no dataset da Telecom X. O objetivo foi desenvolver um modelo capaz de prever quais clientes têm maior risco de churn, identificar as variáveis mais influentes nesse comportamento e fornecer insights para estratégias de retenção. Utilizamos um modelo de Random Forest Classifier e exploramos os dados fornecidos, incluindo estatísticas descritivas e visualizações.
@@ -42,4 +42,5 @@ Este relatório apresenta os resultados da análise preditiva de churn (evasão 
 
 ## 6. Conclusão
 O modelo preditivo forneceu uma base sólida para identificar clientes em risco de churn, com insights valiosos sobre os fatores determinantes. Embora a acurácia inicial seja promissora, há espaço para refinamento. Com as recomendações implementadas, a Telecom X pode reduzir a evasão de clientes e melhorar a retenção, alinhando-se aos objetivos estratégicos.
+
 
